@@ -1,5 +1,4 @@
-<h1>Hi 👋, I'm Ron Yehuda  <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
-</h1>
+<h1>Hi 👋, I'm Ron Yehuda </h1>
 <p>Third-year Computer Science student specializing in Data Science.</p>
 
 # 💡 About Me
