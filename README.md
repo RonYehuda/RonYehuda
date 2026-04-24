@@ -1,67 +1,93 @@
-<h1 align="center">Hi there 👋, I'm Ron Yehuda</h1>
-<h3 align="center">Computer Science Student | Data Science Specialist | Problem Solver</h3>
+# Hi there 👋, I'm Ron Yehuda
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ronyehuda&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-<hr>
-
-<h2>💫 About Me</h2>
-
-- 🎓 I'm a third-year *Computer Science student* specializing in *Data Science*
-- 🌱 I'm focused on building my experience in *software development* and *data analysis*
-- 🚀 Looking for an opportunity to start my professional career in *software development* or *data science*
-- 💡 Quick learning abilities and adaptability to new technologies
-- 💬 Ask me about *data science, Python, and problem-solving approaches*
-
-<hr>
-
-<h2>🛠 Tech Stack</h2>
-
-<h3>Programming Languages</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-</p>
-
-<h3>Tools & Platforms</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-</p>
-
-<hr>
-
-<h2>📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronyehuda&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ronyehuda&theme=radical&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</div>
-
-<hr>
-
-<h2>🌍 Location</h2>
-<p>Israel</p>
-
-<hr>
-
-<h2>📞 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ron-yehuda-3090b432b">
-    <img src="https://img.shields.io/badge/LinkedIn-Ron_Yehuda-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-</p>
+### Software & AI Engineer | CS Graduate (Data Science) | Problem Solver
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
-</p>
+## 💫 About Me
+
+- 🎓 CS Graduate from **Shamoon College of Engineering (SCE)**, specializing in **Data Science**
+- 💼 Actively seeking **Software Engineering** and **AI/ML** roles in Israel
+- 🤖 Hands-on experience building **GenAI-powered applications** using the Claude API
+- 🔧 Backend-focused developer with experience in **Spring Boot**, **Python**, and cloud deployments
+- 📊 Passionate about the intersection of **software engineering** and **data science**
+- 💬 Ask me about **Python, Java, ML/AI pipelines, and problem-solving approaches**
+
+---
+
+## 🛠 Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Cloud & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### AI & GenAI
+![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI-Powered Business Onboarding System
+A GenAI pipeline that automates client onboarding for new businesses — scrapes public data, enriches it via Claude API, detects cross-source conflicts, scores confidence, and generates an HTML visual report.
+`Python` `Claude API` `BeautifulSoup` `JSON` 
+
+---
+
+### 📊 Loan Risk Prediction System
+End-to-end ML pipeline for credit risk classification using ensemble methods and class-imbalance handling.
+- **82% accuracy**, AUC-ROC: **0.865**
+- Techniques: Random Forest, XGBoost, SMOTE
+
+`Python` `scikit-learn` `XGBoost` `pandas`
+
+---
+
+### 🐦 Sentiment Analysis — Israeli-Lebanese Twitter Discourse
+NLP research project analyzing Twitter sentiment during a conflict period using binary classification.
+- Multilingual text preprocessing and analysis
+- Progressing toward academic publication
+
+`Python` `PySentimiento` `NLP` `pandas`
+
+---
+
+### 📝 Spring Boot Blog API
+Full-featured RESTful API with authentication, file storage, and containerized deployment.
+- JWT-based auth, Swagger docs, AWS S3 integration
+- Dockerized with PostgreSQL
+
+`Java` `Spring Boot` `PostgreSQL` `Docker` `AWS S3` `JWT`
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ronyehuda&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ronyehuda&theme=radical&date_format=j%20M%5B%20Y%5D)
+
+---
+
+## 📞 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ron_Yehuda-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ron-yehuda-3090b432b)
+
+---
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
